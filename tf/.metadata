@@ -1,0 +1,7 @@
+{
+  "app_stack_name": "ec2-nat-s3-secure-appstack",
+  "iac_type": "Terraform",
+  "provider": "aws",
+  "multi_env": false,
+  "exporter": "terraform"
+}
